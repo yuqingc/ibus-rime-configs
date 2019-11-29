@@ -1,0 +1,8 @@
+patch:
+  "switches/@0/reset": 1
+  "punctuator/full_shape":
+    '\' : '、'
+    '/' : '/'
+  "punctuator/half_shape":
+    '\' : '、'
+    '/' : '/'
